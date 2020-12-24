@@ -1,0 +1,2 @@
+# news
+Notion-powered blog
