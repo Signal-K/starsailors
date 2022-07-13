@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 5f7b430a20e761d46b96ce792e41a653
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RoadA_Circular_Junction00
+    100004: RoadA_Circular_Junction01
+    100006: RoadA_Circular_Junction02
+    100008: RoadA_Circular_Junction03
+    100010: RoadA_Circular_Junction04
+    100012: RoadA_Circular_Junction_Main
+    100014: RoadA_Circular_Junction_Secondary
+    400000: //RootNode
+    400002: RoadA_Circular_Junction00
+    400004: RoadA_Circular_Junction01
+    400006: RoadA_Circular_Junction02
+    400008: RoadA_Circular_Junction03
+    400010: RoadA_Circular_Junction04
+    400012: RoadA_Circular_Junction_Main
+    400014: RoadA_Circular_Junction_Secondary
+    2100000: RoadA_Circular_Junction
+    2100002: RoadA_Circular_Junction_Secondary
+    2100004: RoadA_Circular_Junction_Main
+    2300000: RoadA_Circular_Junction00
+    2300002: RoadA_Circular_Junction01
+    2300004: RoadA_Circular_Junction02
+    2300006: RoadA_Circular_Junction03
+    2300008: RoadA_Circular_Junction04
+    2300010: RoadA_Circular_Junction_Main
+    2300012: RoadA_Circular_Junction_Secondary
+    3300000: RoadA_Circular_Junction00
+    3300002: RoadA_Circular_Junction01
+    3300004: RoadA_Circular_Junction02
+    3300006: RoadA_Circular_Junction03
+    3300008: RoadA_Circular_Junction04
+    3300010: RoadA_Circular_Junction_Main
+    3300012: RoadA_Circular_Junction_Secondary
+    4300000: RoadA_Circular_Junction04
+    4300002: RoadA_Circular_Junction00
+    4300004: RoadA_Circular_Junction01
+    4300006: RoadA_Circular_Junction02
+    4300008: RoadA_Circular_Junction03
+    4300010: RoadA_Circular_Junction_Secondary
+    4300012: RoadA_Circular_Junction_Main
+    6400000: RoadA_Circular_Junction00
+    6400002: RoadA_Circular_Junction01
+    6400004: RoadA_Circular_Junction02
+    6400006: RoadA_Circular_Junction03
+    6400008: RoadA_Circular_Junction04
+    6400010: RoadA_Circular_Junction_Main
+    6400012: RoadA_Circular_Junction_Secondary
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadA_Circular_Junction_Main
+    second: {fileID: 2100000, guid: dc569991483603e478413fd4acdeb3f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadA_Circular_Junction_Secondary
+    second: {fileID: 2100000, guid: e59e051ce99aebb4aa40f35123db8101, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 50
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 814789e144a650f4685a173cd2103184
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TowerB00
+    100004: TowerB01
+    100006: TowerB02
+    100008: TowerB03
+    100010: TowerB04
+    100012: TowerB05
+    100014: TowerB_Base
+    100016: TowerB_Bld
+    400000: //RootNode
+    400002: TowerB00
+    400004: TowerB01
+    400006: TowerB02
+    400008: TowerB03
+    400010: TowerB04
+    400012: TowerB05
+    400014: TowerB_Base
+    400016: TowerB_Bld
+    2100000: TowerB_Bld
+    2100002: TowerB_Base
+    2300000: TowerB00
+    2300002: TowerB01
+    2300004: TowerB02
+    2300006: TowerB03
+    2300008: TowerB04
+    2300010: TowerB05
+    2300012: TowerB_Base
+    2300014: TowerB_Bld
+    3300000: TowerB00
+    3300002: TowerB01
+    3300004: TowerB02
+    3300006: TowerB03
+    3300008: TowerB04
+    3300010: TowerB05
+    3300012: TowerB_Base
+    3300014: TowerB_Bld
+    4300000: TowerB00
+    4300002: TowerB05
+    4300004: TowerB04
+    4300006: TowerB03
+    4300008: TowerB02
+    4300010: TowerB01
+    4300012: TowerB_Bld
+    4300014: TowerB_Base
+    6400000: TowerB00
+    6400002: TowerB01
+    6400004: TowerB02
+    6400006: TowerB03
+    6400008: TowerB04
+    6400010: TowerB05
+    6400012: TowerB_Base
+    6400014: TowerB_Bld
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TowerB_Base
+    second: {fileID: 2100000, guid: 6b4210eae10f18d4995b23aad426cb85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TowerB_Bld
+    second: {fileID: 2100000, guid: b77b92ccf8c518a449fac432ec7fcc7f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 50
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

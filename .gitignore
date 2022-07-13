@@ -1,27 +1,41 @@
-# Node.js
-node_modules/
-pnpm-lock.yaml
-
-# macOS
+# OS auto-generated files
 .DS_Store
-.AppleDouble
-.LSOverride
+*.db
 
-# Sass
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+# Unity3D auto-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Uu]nityGenerated/
+/[Ll]ocal[Cc]ache/
 
-# VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+# Auto-generated Visual Studio or MonoDevelop solution and project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.apk
+*.cd
+.consulo/
+*.svd
+*.pdb
+*.opendb
 
-# Project
-TODO.md
-public/
-cache/
-*.log
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.exe
+*.unitypackage

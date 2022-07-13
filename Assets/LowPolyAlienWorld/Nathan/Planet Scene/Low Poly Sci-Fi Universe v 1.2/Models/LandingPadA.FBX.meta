@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 733597f15924af54d975c8f598af9141
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: DockGunA
+    100002: DockGunB
+    100004: DockPad
+    100006: DockSideBld
+    100008: //RootNode
+    100010: Radar_Moving
+    100012: RadarPole
+    100014: RadarMoving
+    400000: DockGunA
+    400002: DockGunB
+    400004: DockPad
+    400006: DockSideBld
+    400008: //RootNode
+    400010: Radar_Moving
+    400012: RadarPole
+    400014: RadarMoving
+    2100000: DockExtras
+    2100002: DockSideBld
+    2100004: DockPad
+    2300000: DockGunA
+    2300002: DockGunB
+    2300004: DockPad
+    2300006: DockSideBld
+    2300008: Radar_Moving
+    2300010: RadarPole
+    2300012: RadarMoving
+    3300000: DockGunA
+    3300002: DockGunB
+    3300004: DockPad
+    3300006: DockSideBld
+    3300008: Radar_Moving
+    3300010: RadarPole
+    3300012: RadarMoving
+    4300000: Radar_Moving
+    4300002: DockGunA
+    4300004: DockGunB
+    4300006: DockSideBld
+    4300008: DockPad
+    4300010: RadarPole
+    4300012: RadarMoving
+    6400000: DockGunA
+    6400002: DockGunB
+    6400004: DockPad
+    6400006: DockSideBld
+    6400008: Radar_Moving
+    6400010: RadarPole
+    6400012: RadarMoving
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DockExtras
+    second: {fileID: 2100000, guid: 2f447ff5cc7f7c143b0c2526b17f7cb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DockPad
+    second: {fileID: 2100000, guid: 894bdf20ff757ff49be4a4a929c390ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DockSideBld
+    second: {fileID: 2100000, guid: f9b17b951e04d7c4688704656312e27e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 50
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

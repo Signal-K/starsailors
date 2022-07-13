@@ -1,0 +1,33 @@
+
+
+CHECKLIST - DEVELOPMENT 
+- [ X ] Finish all runtime features
+- [ X ] Address all "TODO" comments in code
+- [ X ] Remove any unneeded "Log." calls. Ideally all
+- [ X ] Run/Test runtime in Unity Editor
+- [ X ] Build/Test runtime on Standalone Desktop
+- [ X ] Revisit every class name, namespace, folder
+- [ X ] Rename every "async" method as "MethodName{Async}"
+- [ X ] Add class comments
+- [ X ] Remove unneeded /3rdParty/ contents
+- [ X ] Validate uncompressed file of repo, direct after download. Ideally < 100MB
+- [ X ] Update/Test ReadMe.asset
+- [ X ] Update/Test README.md
+- [ X ] Update/Test SimCityWeb3Configuration.asset
+
+
+CHECKLIST - RECORDING VIDEO 
+- [ X ] - Use 16x10 Layout
+- [ X ] - Code editor height set to ~25 lines
+
+
+CHECKLIST - RELEASE 
+- [ X ] Keep in git: ALL values within: MapSessionConfig.txt
+- [ X ] Keep in git: ALL values within: PropertyContract.cs
+- [ X ] Release repo as public
+- [ X ] Release video as unlisted
+
+CHECKLIST - OTHER 
+- [   ] 
+- [   ] 
+- [   ] 

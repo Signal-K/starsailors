@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: f3ce838ec899c8f438e223e1c358f78c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AlienArtifactC02
+    100002: AlienArtifactC11
+    100004: AlienArtifactC12
+    100006: AlienArtifactC13
+    100008: AlienArtifactC14
+    100010: AlienArtifactC15
+    100012: AlienArtifactC16
+    100014: AlienArtifactC17
+    100016: //RootNode
+    400000: AlienArtifactC02
+    400002: AlienArtifactC11
+    400004: AlienArtifactC12
+    400006: AlienArtifactC13
+    400008: AlienArtifactC14
+    400010: AlienArtifactC15
+    400012: AlienArtifactC16
+    400014: AlienArtifactC17
+    400016: //RootNode
+    2100000: AlienArtifactC_ColumnB
+    2300000: AlienArtifactC02
+    2300002: AlienArtifactC11
+    2300004: AlienArtifactC12
+    2300006: AlienArtifactC13
+    2300008: AlienArtifactC14
+    2300010: AlienArtifactC15
+    2300012: AlienArtifactC16
+    2300014: AlienArtifactC17
+    2300016: //RootNode
+    3300000: AlienArtifactC02
+    3300002: AlienArtifactC11
+    3300004: AlienArtifactC12
+    3300006: AlienArtifactC13
+    3300008: AlienArtifactC14
+    3300010: AlienArtifactC15
+    3300012: AlienArtifactC16
+    3300014: AlienArtifactC17
+    3300016: //RootNode
+    4300000: AlienArtifactC16
+    4300002: AlienArtifactC15
+    4300004: AlienArtifactC14
+    4300006: AlienArtifactC13
+    4300008: AlienArtifactC12
+    4300010: AlienArtifactC11
+    4300012: AlienArtifactC02
+    4300014: AlienArtifactC17
+    4300016: AlienArtifactC_ColumnB
+    6400000: AlienArtifactC02
+    6400002: AlienArtifactC11
+    6400004: AlienArtifactC12
+    6400006: AlienArtifactC13
+    6400008: AlienArtifactC14
+    6400010: AlienArtifactC15
+    6400012: AlienArtifactC16
+    6400014: AlienArtifactC17
+    6400016: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AlienArtifactC_ColumnB
+    second: {fileID: 2100000, guid: 521318766227f654a9e99d50038160cf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 50
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

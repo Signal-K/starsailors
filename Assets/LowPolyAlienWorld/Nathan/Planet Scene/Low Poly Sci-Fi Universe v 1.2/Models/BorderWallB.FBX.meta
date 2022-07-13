@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 169544f98339beb41b4605caa367ac04
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BorderWallB
+    100004: BorderWallB_CamA
+    100006: BorderWallB_CamB
+    100008: BorderWallB_EnergyField
+    400000: //RootNode
+    400002: BorderWallB
+    400004: BorderWallB_CamA
+    400006: BorderWallB_CamB
+    400008: BorderWallB_EnergyField
+    2100000: BorderWallB_EnergyField
+    2100002: BorderWallB
+    2300000: BorderWallB
+    2300002: BorderWallB_CamA
+    2300004: BorderWallB_CamB
+    2300006: BorderWallB_EnergyField
+    3300000: BorderWallB
+    3300002: BorderWallB_CamA
+    3300004: BorderWallB_CamB
+    3300006: BorderWallB_EnergyField
+    4300000: BorderWallB_EnergyField
+    4300002: BorderWallB_CamB
+    4300004: BorderWallB_CamA
+    4300006: BorderWallB
+    6400000: BorderWallB
+    6400002: BorderWallB_CamA
+    6400004: BorderWallB_CamB
+    6400006: BorderWallB_EnergyField
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BorderWallB
+    second: {fileID: 2100000, guid: 18648de138fc2f24281d05d2196a705a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BorderWallB_EnergyField
+    second: {fileID: 2100000, guid: 19fce504ecca27046a06fbecc4e5c0dc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 50
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
