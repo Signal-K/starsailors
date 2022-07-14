@@ -24,11 +24,7 @@ public class Planet : MonoBehaviour {
     MeshFilter[] meshFilters;
     TerrainFace[] terrainFaces;
 
-    private void OnValidate() {
-        GeneratePlanet();
-    }
-
-    async void Initialize() { // Initialising the mesh filters
+    void Initialize() { // Initialising the mesh filters
         shapeGenerator.UpdateSettings(shapeSettings);
         colourGenerator.UpdateSettings(colourSettings);
 
@@ -60,17 +56,21 @@ public class Planet : MonoBehaviour {
     public void GeneratePlanet() {
         Initialize();
         GenerateMesh();
-        GenerateColors();
+        GenerateColours();
     }
 
     public void OnShapeSettingsUpdated() {
-        Initialize();
-        GenerateMesh();
+        if (autoUpdate) {
+            Initialize();
+            GenerateMesh();
+        }
     }
 
     public void OnColourSettingsUpdated() {
-        Initialize();
-        GenerateColors();
+        if (autoUpdate) {
+            Initialize();
+            GenerateColours();
+        }
     }
 
     void GenerateMesh() {
@@ -83,10 +83,13 @@ public class Planet : MonoBehaviour {
         colourGenerator.UpdateElevation(shapeGenerator.elevationMinMax);
     }
 
-    void GenerateColors() {
-        foreach (MeshFilter m in meshFilters)
-        {
-            colourGenerator.UpdateColours();
+    void GenerateColours() {
+        colourGenerator.UpdateColours();
+
+        for (int i = 0; i < 6; i++) {
+            if (meshFilters[i].gameObject.activeSelf) {
+                terrainFaces[i].UpdateUVs(colourGenerator);
+            }
         }
     }
 }
