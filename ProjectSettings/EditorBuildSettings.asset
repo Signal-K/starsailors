@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LowPolyAlienWorld/PlanetView/Scenes/Procedural Generation.unity
+    guid: 66069e8234091459283dddabe93641ae
   m_configObjects: {}
