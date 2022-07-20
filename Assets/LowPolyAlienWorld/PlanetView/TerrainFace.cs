@@ -59,8 +59,7 @@ public class TerrainFace : MonoBehaviour {
 
     public void UpdateUVs(ColourGenerator colourGenerator) {
         Vector2[] uv = new Vector2[resolution * resolution]; // number of vertices
-
-        // something something
+        
         for (int y = 0; y < resolution; y++) {
             for (int x = 0; x < resolution; x++) {
                 int i = x + y * resolution;
