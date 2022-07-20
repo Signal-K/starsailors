@@ -1,9 +1,10 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 [System.Serializable]
 public class NoiseSettings {
+
     public enum FilterType { Simple, Ridgid };
     public FilterType filterType;
 
@@ -13,7 +14,8 @@ public class NoiseSettings {
     public RidgidNoiseSettings ridgidNoiseSettings;
 
     [System.Serializable]
-    public class SimpleNoiseSettings {
+    public class SimpleNoiseSettings
+    {
         public float strength = 1;
         [Range(1, 8)]
         public int numLayers = 1;
@@ -25,7 +27,11 @@ public class NoiseSettings {
     }
 
     [System.Serializable]
-    public class RidgidNoiseSettings : SimpleNoiseSettings {
+    public class RidgidNoiseSettings : SimpleNoiseSettings
+    {
         public float weightMultiplier = .8f;
     }
+
+
+
 }

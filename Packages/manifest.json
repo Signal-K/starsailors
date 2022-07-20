@@ -16,7 +16,6 @@
     }
   ],
   "dependencies": {
-    "com.guciodevs.simple-min-max-slider": "https://github.com/GucioDevs/SimpleMinMaxSlider.git#upm",
     "com.microsoft.maps.unity": "0.11.2",
     "com.lootlocker.lootlockersdk": "https://github.com/LootLocker/unity-sdk.git",
     "com.unity.cinemachine": "2.8.6",
