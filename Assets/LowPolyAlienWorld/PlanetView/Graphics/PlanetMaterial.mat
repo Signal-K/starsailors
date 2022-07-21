@@ -161,7 +161,7 @@ Material:
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-    - _elevationMinMax: {r: 2.72, g: 3.0692244, b: 0, a: 0}
+    - _elevationMinMax: {r: 0, g: 0.1214758, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &9134807264041278080
 MonoBehaviour:
