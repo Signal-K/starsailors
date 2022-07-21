@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13fef308ab711a6439bb086b5265f83e, type: 3}
   m_Name: MoralisServerSettings
   m_EditorClassIdentifier: 
-  DappUrl: https://pqrdt3y1tim2.usemoralis.com:2053/server
-  DappId: BI5hagTDpD81Tc0hwFGn5kvW1nQgnjQKlDBrg0gT
-  DappName: Moralis SDK Application
-  DappDescription: This application provides an example of how to you Moralis in
-    a Unity 3D Game
-  DappVersion: 1.0.0
-  DappIconUrl: https://moralis.io/wp-content/uploads/2021/06/Powered-by-Moralis-Badge-Black.svg
+  DappUrl: 
+  DappId: 
+  DappName: Your dapp name
+  DappDescription: Your dapp description
+  DappVersion: 0.0.1
+  DappIconUrl: https://moralis.io/wp-content/uploads/2022/05/symbol_for_light_bckg.svg
   DappWebsiteUrl: https://moralis.io
   DisableAutoOpenWizard: 0
