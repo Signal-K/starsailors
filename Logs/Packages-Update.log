@@ -1,14 +1,13 @@
 
-=== Wed Feb 23 15:04:37 2022
+=== Sat Jul 23 01:56:16 2022
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
 
 The following packages were added:
-  com.unity.collab-proxy@1.15.7
-  com.unity.ide.rider@2.0.7
-  com.unity.ide.visualstudio@2.0.12
-  com.unity.ide.vscode@1.2.4
+  com.unity.ide.rider@3.0.14
+  com.unity.ide.visualstudio@2.0.15
+  com.unity.ide.vscode@1.2.5
   com.unity.modules.ai@1.0.0
   com.unity.modules.androidjni@1.0.0
   com.unity.modules.animation@1.0.0
@@ -40,30 +39,8 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
-  com.unity.test-framework@1.1.29
-  com.unity.textmeshpro@3.0.6
-  com.unity.timeline@1.4.8
-  com.unity.ugui@1.0.0
-
-=== Fri Mar  4 23:06:32 2022
-
-Packages were changed.
-Update Mode: updateDependencies
-
-The following packages were removed:
-  com.unity.ui@1.0.0-preview.18
-  com.unity.ui.builder@1.0.0-preview.18
-
-=== Tue Jun 28 10:57:37 2022
-
-Packages were changed.
-Update Mode: updateDependencies
-
+  com.unity.test-framework@1.1.31
+  com.unity.visualscripting@1.7.8
 The following packages were updated:
-  com.unity.collab-proxy from version 1.15.4 to 1.15.17
-  com.unity.ide.rider from version 3.0.7 to 3.0.14
-  com.unity.ide.visualstudio from version 2.0.12 to 2.0.15
-  com.unity.ide.vscode from version 1.2.4 to 1.2.5
-  com.unity.test-framework from version 1.1.29 to 1.1.31
-  com.unity.timeline from version 1.6.3 to 1.6.4
-  com.unity.visualscripting from version 1.7.6 to 1.7.8
+  com.unity.collab-proxy from version 1.13.5 to 1.15.17
+  com.unity.timeline from version 1.6.2 to 1.6.4
