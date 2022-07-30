@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 33990256434022284}
   - component: {fileID: 23320235798237312}
   - component: {fileID: 136367590879483440}
+  - component: {fileID: 6084245131095618396}
   m_Layer: 0
   m_Name: Birch_tree1
   m_TagString: Untagged
@@ -99,3 +100,16 @@ CapsuleCollider:
   m_Height: 13.553929
   m_Direction: 1
   m_Center: {x: 0.01, y: 5.69, z: 0.02}
+--- !u!114 &6084245131095618396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1216688828669844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dd3b347801414eaca5a713c8afda4e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ItemName: Birch Tree
