@@ -6,8 +6,8 @@ using UnityEngine.UI;
 public class AI_Movement : MonoBehaviour {
     Animator animator;
     public float moveSpeed = 0.2f;
-    Vector3 stopPosition;
-    float walkTime;
+    Vector3 stopPosition; // transform -> where did the object/prefab stop?
+    float walkTime; // time the prefab/ai will walk
     public float walkCounter;
     float waitTime;
     public float waitCounter;
@@ -15,10 +15,10 @@ public class AI_Movement : MonoBehaviour {
     public bool isWalking;
 
     void Start() {
-        animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>(); // ref to Animator component of the gameObject [this script is attached to]
 
         // Prevent all the prefabs from moving/stopping at the same time
-        walkTime = Random.Range(3, 6);
+        walkTime = Random.Range(3, 6); // between in seconds
         waitTime = Random.Range(5, 7);
         waitCounter = waitTime;
         walkCounter = walkTime;
@@ -27,7 +27,7 @@ public class AI_Movement : MonoBehaviour {
 
     void Update() {
         if (isWalking) {
-            animator.SetBool("isRunning", true);
+            animator.SetBool("isRunning", true); // local animator bool/param
             walkCounter -= Time.deltaTime;
             switch (WalkDirection) {
                 case 0:
@@ -48,7 +48,7 @@ public class AI_Movement : MonoBehaviour {
                     break;
             }
 
-            if (walkCounter <= 0) {
+            if (walkCounter <= 0) { // Counts down from walkTime until gets to 0, then stops the prefab/ai and resets
                 stopPosition = new Vector3(transform.position.x, transform.position.y, transform.position.z);
                 isWalking = false;
                 // stop movement
@@ -67,7 +67,7 @@ public class AI_Movement : MonoBehaviour {
     }
 
     public void ChooseDirection() {
-        WalkDirection = Random.Range(0, 4);
+        WalkDirection = Random.Range(0, 4); // 0, 1, 2, or 3 -> nesw
         isWalking = true;
         walkCounter = walkTime;
     }

@@ -20,9 +20,11 @@ public class SelectionManager : MonoBehaviour { // Interactable object documenta
             if (selectionTransform.GetComponent<InteractableObject>()) { // Check if the rayhit is something that should be interacted with (e.g. sky shouldn't be interactable by default)
                 interaction_text.text = selectionTransform.GetComponent<InteractableObject>().GetItemName(); // fill the text with the item name
                 interaction_Info_UI.SetActive(true); // display the item text to the scene
-            } else  { // do not display the text if the raycast hit is true but the item is not interactable 
+            } else  { // do not display the text if the raycast hit is true but the item is not interactable
                 interaction_Info_UI.SetActive(false);
             }
+        } else { // if raycast isn't hitting anything
+            interaction_Info_UI.SetActive(false); // could have also fixed the bug by ensuring that the next raycast matches the getItemName component, or else reset the text, but this is faster
         }
     }
 }
