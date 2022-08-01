@@ -17,7 +17,7 @@ public class SelectionManager : MonoBehaviour { // Interactable object documenta
         if (Physics.Raycast(ray, out hit)) { // check if the ray[cast] has hit a gameobject
             var selectionTransform = hit.transform; // transform component of the object that the ray hit
  
-            if (selectionTransform.GetComponent<InteractableObject>()) { // Check if the rayhit is something that should be interacted with (e.g. sky shouldn't be interactable by default)
+            if (selectionTransform.GetComponent<InteractableObject>() && selectionTransform.GetComponent<InteractableObject>().playerInRange) { // Check if the rayhit is something that should be interacted with (e.g. sky shouldn't be interactable by default)
                 interaction_text.text = selectionTransform.GetComponent<InteractableObject>().GetItemName(); // fill the text with the item name
                 interaction_Info_UI.SetActive(true); // display the item text to the scene
             } else  { // do not display the text if the raycast hit is true but the item is not interactable
