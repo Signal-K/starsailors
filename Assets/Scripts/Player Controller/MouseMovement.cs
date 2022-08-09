@@ -12,11 +12,13 @@ public class MouseMovement : MonoBehaviour {
     }
 
     void Update() {
-        float mouseX = Input.GetAxis("Mouse X") * mouseSensetivity * Time.deltaTime; // input of the x axis of the mouse, configured slightly based on params
-        float mouseY = Input.GetAxis("Mouse Y") * mouseSensetivity * Time.deltaTime; // deltaTime -> input based on time since last frame
-        xRotation -= mouseY; // control rotation around x axis (up and down)
-        xRotation = Mathf.Clamp(xRotation, -90f, 90f); // Clamp camera rotation movement to prevent looking around in a non-humanoid manner (can be changed later for aliens/with new skills)
-        yRotation += mouseX; // control rotation around y axis -> look up and down
-        transform.localRotation = Quaternion.Euler(xRotation, yRotation, 0f); // apply both rotations
+        if (InventorySystem.Instance.isOpen == false) { // Lock the camera if any UI is open that requires a mouse movement e.g. inventory screen
+            float mouseX = Input.GetAxis("Mouse X") * mouseSensetivity * Time.deltaTime; // input of the x axis of the mouse, configured slightly based on params
+            float mouseY = Input.GetAxis("Mouse Y") * mouseSensetivity * Time.deltaTime; // deltaTime -> input based on time since last frame
+            xRotation -= mouseY; // control rotation around x axis (up and down)
+            xRotation = Mathf.Clamp(xRotation, -90f, 90f); // Clamp camera rotation movement to prevent looking around in a non-humanoid manner (can be changed later for aliens/with new skills)
+            yRotation += mouseX; // control rotation around y axis -> look up and down
+            transform.localRotation = Quaternion.Euler(xRotation, yRotation, 0f); // apply both rotations
+        }
     }
 }
