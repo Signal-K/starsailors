@@ -1,0 +1,184 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.4f1 (cb45f9cae8b7) revision 13321721'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'en' Physical Memory: 3914 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\2021.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1555
+-projectPath
+C:/Users/ndawi/starsailors
+-logFile
+Logs/AssetImportWorker1555.log
+-srvPort
+52809
+Successfully changed project path to: C:/Users/ndawi/starsailors
+C:/Users/ndawi/starsailors
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+      3380 c3e8 -
+     22572 88a0 -
+     72776 a694 -
+     39812 b860 -
+     68768 10990 -
+     32788 f574 -
+     46760 a31c -
+     48084 3978 -
+     48348 2864 -
+     65628 2730 -
+     62256 4b4c -
+     11692 10bd0 -
+     44028 d414 -
+     71004 6fcc -
+     44856 6190 -
+     16568 11ba4 -
+     18512 7b00 -
+     27924 11c88 -
+     72880 1039c -
+     24044 ba48 -
+     41888 7abc -
+     17188 10a34 -
+     42524 2d74 -
+      8612 e9f0 -
+     68684 33ec -
+     65836 86d8 -
+     63968 f144 -
+     73116 99c8 -
+     44184 a99c -
+     19124 efc8 -
+     46936 117a8 -
+      4500 ab34 -
+     54520 b0c8 -
+     52300 c8a0 -
+     27356 5d2c -
+     12740 c8 -
+     58088 60a8 -
+     45860 304c -
+     64952 fe44 -
+      8924 f244 -
+     48664 817c -
+     52888 d39c -
+     18920 3098 -
+     59116 2b20 -
+     49960 900c -
+     60136 db1c -
+     56696 dbc4 -
+     63320 b3dc -
+     11476 da60 -
+     54456 ccf8 -
+      2964 ce58 -
+     41148 e7b4 -
+     65444 de00 -
+      9436 d14c -
+     58216 5a78 -
+     20772 c3c4 -
+     50332 5440 -
+     71828 7104 -
+     13404 842c -
+     24788 9b68 -
+     56812 bcac -
+     59124 1654 -
+     22804 8070 -
+     66304 9258 -
+     34196 7a18 -
+     29252 67f4 -
+     53368 41ac -
+     54824 ea60 -
+      8568 14c4 -
+     14924 c7e4 -
+     28108 d218 -
+      4844 5b38 -
+     39128 80f0 -
+     39276 2b84 -
+     46252 192c -
+     27672 cbb0 -
+     20752 3174 -
+     20736 1594 -
+     52860 611c -
+     47292 3f94 -
+     11648 783c -
+     10988 32a4 -
+     38532 4b50 -
+     40852 43d0 -
+     33388 6034 -
+      6328 4a6c -
+     34880 9d90 -
+     13472 51ec -
+      2328 bedc -
+     12756 dac4 -
+     12256 11388 -
+     11224 93e0 -
+     11688 5318 -
+     14048 a1b4 -
+     40332 5340 -
+     60196 308c -
+     64012 4988 -
+     38208 43c -
+     29544 a42c -
+     40768 7c98 -
+     46668 2f1c -
+     41764 78e8 -
+     66720 67a0 -
+     67376 4994 -
+     50804 27a0 -
+     10036 c978 -
+     41504 e4cc -
+     20104 294c -
+     51028 6074 -
+     19356 fb68 -
+     42504 f378 -
+     11760 674c -
+     44492 4f18 -
+      9012 108e0 -
+     15732 a4b0 -
+     72936 4ffc -
+     73984 b7d4 -
+     15292 b06c -
+     68532 594c -
+     73204 e044 -
+     25604 a57c -
+     26400 68c -
+     74408 61b4 -
+     72132 12024 -
+     11788 11a24 -
+     69056 c7c0 -
+Cleaned out 51 stale readers
+Refreshing native plugins compatible for Editor in 1737.61 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.4f1 (cb45f9cae8b7)
+[Subsystems] Discovering subsystems at path C:/Program Files/2021.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ndawi/starsailors/Assets
+GfxDevice: creating device client; threaded=0; jobified=0

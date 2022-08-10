@@ -1,0 +1,235 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.4f1 (cb45f9cae8b7) revision 13321721'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'en' Physical Memory: 3914 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\2021.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker125
+-projectPath
+C:/Users/ndawi/starsailors
+-logFile
+Logs/AssetImportWorker125.log
+-srvPort
+55974
+Successfully changed project path to: C:/Users/ndawi/starsailors
+C:/Users/ndawi/starsailors
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     38172 8c54 -
+     29644 96a0 -
+     16748 35f0 -
+     18880 c6d4 -
+     10148 4258 -
+       728 b63c -
+     40600 3040 -
+     14516 7238 -
+     37372 c60 -
+     18136 3fac -
+     18972 ac0 -
+     16936 3e10 -
+     13960 492c -
+     14252 2bd4 -
+     46636 3ed8 -
+     15860 3f04 -
+     13632 34a4 -
+     16536 511c -
+     49200 2efc -
+     49516 8438 -
+     11760 a930 -
+     26400 b908 -
+     22412 29a0 -
+     19324 12170 -
+      9944 c568 -
+     48780 37d8 -
+     51084 2144 -
+     14392 59ac -
+     32712 b33c -
+     15500 70b8 -
+     39580 25a4 -
+     13768 3d44 -
+     30608 7448 -
+      6660 9c8c -
+     14220 2558 -
+     17488 11cb8 -
+      4680 11a38 24402
+     31228 3280 24403
+     48404 14a0 -
+     74192 a830 -
+      7952 11c2c -
+      7928 12238 -
+     67200 b828 -
+     49156 123ec -
+     20016 ae40 -
+     27816 11f10 -
+     72504 104cc 24412
+     44536 119a4 -
+     71396 8adc -
+     70164 b1c8 -
+     42308 e4b4 -
+     72316 1123c -
+     68100 acf0 24418
+     69164 14b4 -
+     17984 a998 -
+     33512 117a0 -
+     73084 ad14 24421
+     54976 a6a8 -
+     72076 1202c -
+     31140 10c98 -
+     34240 a868 -
+     65960 11c08 -
+     44456 a364 -
+     67224 ba08 -
+     68224 a51c -
+     67680 107e4 -
+     42548 114ac -
+     67156 7170 -
+     42744 aa48 -
+     69880 fc88 24435
+     67836 10904 -
+     44020 8970 -
+     57676 10b30 -
+     66720 105f8 24441
+     66100 107c4 24441
+     73696 6d64 -
+     65676 103f8 -
+     65668 719c -
+     66296 10120 -
+     31760 f848 -
+     31816 7890 -
+     30528 8758 -
+     25704 7398 -
+     25208 55b0 -
+     27460 6874 -
+     21456 10974 -
+     24644 b920 -
+     46296 6b7c -
+      8644 6d58 -
+     61724 9cc8 -
+     32728 881c -
+     31008 8ec8 -
+     38340 9ab0 -
+     28412 bba0 -
+     23296 926c -
+     27880 122c4 -
+     64424 8398 -
+     63860 f714 -
+     24544 55c4 -
+     64012 f3e4 -
+     45384 f05c -
+     64280 6f30 -
+     61400 9678 -
+     62200 f7dc -
+     33888 1020c -
+     60240 e94c -
+     61112 e8fc -
+     33024 e290 -
+     60652 ec48 -
+     37024 7328 -
+     33100 f190 -
+     24144 855c -
+     47872 6110 -
+     58228 30a0 -
+     57144 e09c -
+     59948 f968 -
+     13604 bc20 -
+     16840 ded8 -
+     17552 44fc -
+     50872 de18 -
+     56940 4e5c -
+     56976 d1b8 -
+     56996 d594 -
+     55528 d7cc -
+     54728 dcf4 -
+     57956 5dec 24958
+Cleaned out 123 stale readers
+Refreshing native plugins compatible for Editor in 1105.27 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.4f1 (cb45f9cae8b7)
+[Subsystems] Discovering subsystems at path C:/Program Files/2021.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ndawi/starsailors/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     128 MB
+    Driver:   10.18.10.4252
+Initialize mono
+Mono path[0] = 'C:/Program Files/2021.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2021.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/2021.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56888
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2021.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.035638 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 940.91 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.785 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3787ms)
+		BeginReloadAssembly (336ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (2843ms)
+			LoadAssemblies (330ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (607ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (161ms)
+			SetupLoadedEditorAssemblies (1793ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (41ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (941ms)
+				BeforeProcessingInitializeOnLoad (4ms)
+				ProcessInitializeOnLoadAttributes (599ms)
+				ProcessInitializeOnLoadMethodAttributes (206ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.066310 seconds.
