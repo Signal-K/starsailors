@@ -13,7 +13,7 @@ public class InteractableObject : MonoBehaviour {
 
     private void Update() {
         // Click/input action from player for picking up items
-        if (Input.GetKeyDown(KeyCode.Mouse0) && playerInRange) { // if left button pressed and the player is in range and raycast is on the object's box collider (not range box collider)
+        if (Input.GetKeyDown(KeyCode.Mouse0) && playerInRange && SelectionManager.Instance.onTarget) { // if left button pressed and the player is in range and raycast is on the object's box collider (not range box collider)
             Debug.Log("Item added to inventory");
             Destroy(gameObject);
         }
@@ -31,3 +31,5 @@ public class InteractableObject : MonoBehaviour {
         }
     }
 }
+
+// Take a note of where object was picked up (coords) in journal

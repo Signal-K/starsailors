@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.62162215, g: 0.92353976, b: 0.9763108, a: 1}
+  m_IndirectSpecularColor: {r: 0.6196761, g: 0.92158014, b: 0.9758006, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -637,6 +637,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8fc925308ec6e45628b77c69879fb398, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  onTarget: 0
   interaction_Info_UI: {fileID: 7436401}
 --- !u!4 &485427750
 Transform:
@@ -821,7 +822,7 @@ TerrainCollider:
   m_GameObject: {fileID: 568117182}
   m_Material: {fileID: 0}
   m_Enabled: 1
-  m_TerrainData: {fileID: 15600000, guid: 00d29e35c00544093b704b9da4c81c80, type: 2}
+  m_TerrainData: {fileID: 15600000, guid: 3066d3ffabf9942d292a8ca8ed33046e, type: 2}
   m_EnableTreeColliders: 1
 --- !u!218 &568117184
 Terrain:
@@ -832,7 +833,7 @@ Terrain:
   m_GameObject: {fileID: 568117182}
   m_Enabled: 1
   serializedVersion: 6
-  m_TerrainData: {fileID: 15600000, guid: 00d29e35c00544093b704b9da4c81c80, type: 2}
+  m_TerrainData: {fileID: 15600000, guid: 3066d3ffabf9942d292a8ca8ed33046e, type: 2}
   m_TreeDistance: 5000
   m_TreeBillboardDistance: 50
   m_TreeCrossFadeLength: 5
