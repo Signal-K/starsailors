@@ -548,3 +548,159 @@ Received Import Request.
   path: Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Flower2.prefab
   artifactKey: Guid(9c47d3ce2208e9440ab03e7fe3e32bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Flower2.prefab using Guid(9c47d3ce2208e9440ab03e7fe3e32bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077fedc0cfd43315342ac02a83b2422e') in 0.897164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 197619.925720 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/UI/Icons/armor_icon.png
+  artifactKey: Guid(70fb005b8ec434051ab94cab8a11af6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/UI/Icons/armor_icon.png using Guid(70fb005b8ec434051ab94cab8a11af6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46aae02e9b20384f707b9c9261fd7274') in 1.128920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003786 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/button_ready_on.png
+  artifactKey: Guid(b15b3c57bd6d145aca5415d16e662adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/button_ready_on.png using Guid(b15b3c57bd6d145aca5415d16e662adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aaf251692eb7846605ac975ff0c5993') in 0.043982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/bar_ready.png
+  artifactKey: Guid(35a56492107584e4da63bfffe7a6c951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/bar_ready.png using Guid(35a56492107584e4da63bfffe7a6c951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '724ea13b14093a8c35524285fdf33a80') in 0.142296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/barmid_ready.png
+  artifactKey: Guid(88e283d38b5dd44759dd52ed28aa8ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/barmid_ready.png using Guid(88e283d38b5dd44759dd52ed28aa8ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2f702d65e4374bd529abf434e9dba7') in 0.258236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/button2.png
+  artifactKey: Guid(051096215fe594a43bbba058e9077d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/button2.png using Guid(051096215fe594a43bbba058e9077d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '923318d0ff8992f3369106388ff493ec') in 0.027461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button_cancel.png
+  artifactKey: Guid(83630bc4b7fe94e7285d528990ec8dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button_cancel.png using Guid(83630bc4b7fe94e7285d528990ec8dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f4fa6ecf49b9d704ead4d88cdd0306') in 0.027653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button_agree.png
+  artifactKey: Guid(f397f38db71da4cc8969a1810782fbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button_agree.png using Guid(f397f38db71da4cc8969a1810782fbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e138db9099d4bff605911ef0daa371aa') in 0.023298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button_ready_off.png
+  artifactKey: Guid(b665d441107a445ce94eedbb64c6b0c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button_ready_off.png using Guid(b665d441107a445ce94eedbb64c6b0c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030b290b45d3daabb5eba155a85c988d') in 0.022968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/big_roundframe.png
+  artifactKey: Guid(5c49e79b3e7294894b2d103af648a600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/big_roundframe.png using Guid(5c49e79b3e7294894b2d103af648a600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a8f1d5c5ec056f90bdb735c5fafed1') in 0.054084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button_ready_on.png
+  artifactKey: Guid(677e3297f049846cf859f6d89135a7a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button_ready_on.png using Guid(677e3297f049846cf859f6d89135a7a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fb7aebc198f46932938e28d869a8e16') in 0.033728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button2.png
+  artifactKey: Guid(dc4f8d9be88d44369a5de586dbc9b946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button2.png using Guid(dc4f8d9be88d44369a5de586dbc9b946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3fb41bb989ffe4943067574e086e8d') in 0.026386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/button3_ready.png
+  artifactKey: Guid(7734823900c824532a619285d87d9e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/button3_ready.png using Guid(7734823900c824532a619285d87d9e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffcef3155c31525b666338852de48e73') in 0.010116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/big_background.png
+  artifactKey: Guid(8fa3d244985be4a4da3bed48cf9ad365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/FantasyEnvironments/Environments/Prefabs/Gui_parts/big_background.png using Guid(8fa3d244985be4a4da3bed48cf9ad365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e4c74ec57d9c1fd2bdb9e3e2c812fe') in 0.128521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button2_ready_on.png
+  artifactKey: Guid(552aabe158a2047488fbb37de0e167da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/button2_ready_on.png using Guid(552aabe158a2047488fbb37de0e167da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1544cffd7db932e8cb8c7107908328c0') in 0.014343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 996.617974 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/Mini_background.png
+  artifactKey: Guid(8effface3ce0b4228b9f4691f4e5f3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/Mini_background.png using Guid(8effface3ce0b4228b9f4691f4e5f3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '010d225afb49a8b8dd569241a0247d8f') in 0.766396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000543 seconds.
+  path: Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/Mini_frame2.png
+  artifactKey: Guid(20ab2c3857e4c4314ba08aeeff28f944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FirstPerson 3D Controller/UI/Gui_parts/Mini_frame2.png using Guid(20ab2c3857e4c4314ba08aeeff28f944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d10b3f43d41e46130b6099edba0ca87') in 0.035898 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003606 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16fc2f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/liamarbuckle/Desktop/Unity/starsailors/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/liamarbuckle/Desktop/Unity/starsailors/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.074 seconds
+Domain Reload Profiling:
+	ReloadAssembly (11111ms)
+		BeginReloadAssembly (5549ms)
+			ExecutionOrderSort (3ms)
+			DisableScriptedObjects (94ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3923ms)
+		EndReloadAssembly (5255ms)
+			LoadAssemblies (2132ms)
+			RebuildTransferFunctionScriptingTraits (19ms)
+			SetupTypeCache (1738ms)
+			ReleaseScriptCaches (129ms)
+			RebuildScriptCaches (104ms)
+			SetupLoadedEditorAssemblies (1622ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (73ms)
+				SetLoadedEditorAssemblies (8ms)
+				RefreshPlugins (38ms)
+				BeforeProcessingInitializeOnLoad (92ms)
+				ProcessInitializeOnLoadAttributes (1309ms)
+				ProcessInitializeOnLoadMethodAttributes (97ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (3ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7578 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 147 unused Assets / (9.5 MB). Loaded Objects now: 8216.
+Memory consumption went from 0.53 GB to 0.52 GB.
+Total: 285.170042 ms (FindLiveObjects: 1.709125 ms CreateObjectMapping: 0.926500 ms MarkObjects: 278.052167 ms  DeleteObjects: 4.480875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
