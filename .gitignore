@@ -39,3 +39,4 @@ sysinfo.txt
 *.apk
 *.exe
 *.unitypackage
+*.log
