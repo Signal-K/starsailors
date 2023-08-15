@@ -54,3 +54,19 @@ The following packages were added:
   com.unity.render-pipelines.high-definition@12.1.0
   com.unity.render-pipelines.universal@12.1.0
   com.unity.shadergraph@12.1.0
+
+=== Tue Sep 19 14:17:31 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.17.1 to 2.0.4
+  com.unity.ide.rider from version 3.0.15 to 3.0.21
+  com.unity.ide.visualstudio from version 2.0.16 to 2.0.18
+  com.unity.inputsystem from version 1.4.2 to 1.5.1
+  com.unity.render-pipelines.high-definition from version 12.1.7 to 12.1.11
+  com.unity.render-pipelines.universal from version 12.1.7 to 12.1.11
+  com.unity.shadergraph from version 12.1.7 to 12.1.11
+  com.unity.timeline from version 1.6.4 to 1.6.5
+  com.unity.visualscripting from version 1.7.8 to 1.8.0

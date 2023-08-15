@@ -3,5 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class DatabaseAccess : MonoBehaviour {
-    MongoClient client = new MongoClient();
+    // MongoClient client = new MongoClient();
+    public int testInt = 1;
 }
